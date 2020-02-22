@@ -10,6 +10,8 @@ This app needs the following environment Variables
 * `NOTES_APP_MONGODB_DATABASE` Mongodb database name
 * `NODE_ENV` node environment
 
+# Modifications
+
 # Tutorial
 This app was created with educational purposes, so you can found the tutorials on the following links:
 * [Updated tutorial](https://wwww.faztweb.com)
