@@ -9,5 +9,7 @@ This app needs the following environment Variables
 * `NOTES_APP_MONGODB_HOST` this is the Mongodb URI string
 * `NOTES_APP_MONGODB_DATABASE` Mongodb database name
 * `NODE_ENV` node environment
+* `PORT` port, normally 8080
 
 # Modifications
+Just simply color and minor changes
