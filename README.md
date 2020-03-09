@@ -12,4 +12,5 @@ This app needs the following environment Variables
 * `PORT` port, normally 8080
 
 # Modifications
-Just simply color and minor changes
+Just simply color and minor changes.
+Nothing special
