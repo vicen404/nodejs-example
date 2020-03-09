@@ -13,4 +13,3 @@ This app needs the following environment Variables
 
 # Modifications
 Just simply color and minor changes.
-Nothing special
